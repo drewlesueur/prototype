@@ -98,7 +98,7 @@ function $w(string) {
 /** alias of: $A
  *  Array.from(iterable) -> Array
 **/
-Array.from = $A;
+// Array.from = $A; // https://stackoverflow.com/questions/50418704/google-maps-javascript-streetview-bu
 
 /** section: Language
  * class Array
